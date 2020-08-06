@@ -3,12 +3,13 @@
 ## I'm a Husband, Programmer and Dog owner!
 - 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvO9KfWJqprQ/company-logo_200_200/0?e=1604534400&v=beta&t=lUufC2PdiWfAKRmMEvwBMaOYikUMBtauY98zq4CiL_I" />][workplace]!
 - 🌱 I’m currently learning everything BabylonJS, Kafka and Angular
+- 👾 Organizing [Polymorphic][meetup] meetup with [@Kobawan][https://github.com/kobawan]
 - ⚡ Fun fact: I love to (scuba|free) dive and play guitar
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Medium.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -50,3 +51,4 @@
 [workplace]: https://printify.com/
 [medium]: https://medium.com/@RolandJegorov
 [linkedin]: https://www.linkedin.com/in/rolandjegorov/
+[meetup]: https://www.meetup.com/Polymorphic/
