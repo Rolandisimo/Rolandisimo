@@ -3,7 +3,7 @@
 ## I'm a Husband, Programmer and Dog owner!
 - 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvO9KfWJqprQ/company-logo_200_200/0?e=1604534400&v=beta&t=lUufC2PdiWfAKRmMEvwBMaOYikUMBtauY98zq4CiL_I" />][workplace]!
 - 🌱 I’m currently learning everything BabylonJS, Kafka and Angular
-- 👾 Organizing [Polymorphic][meetup] meetup with [@Kobawan][https://github.com/kobawan]
+- 👾 Organizing [Polymorphic][meetup] meetup with [Kobawan][kobawan]
 - ⚡ Fun fact: I love to (scuba|free) dive and play guitar
 
 ### Connect with me:
@@ -52,3 +52,4 @@
 [medium]: https://medium.com/@RolandJegorov
 [linkedin]: https://www.linkedin.com/in/rolandjegorov/
 [meetup]: https://www.meetup.com/Polymorphic/
+[kobawan]: https://github.com/kobawan
