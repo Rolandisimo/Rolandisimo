@@ -36,6 +36,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why your data has most likely been stolen and what can you do about it](https://medium.com/@RolandJegorov/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-139c5b81e8b7?source=rss-42b23c160097------2)
+- [Fancy word. What does it mean?](https://medium.com/@RolandJegorov/fancy-word-what-does-it-mean-8a1323107a14?source=rss-42b23c160097------2)
+- [Our plane crashed and we lost essential data logs. Where did we go wrong?](https://medium.com/@RolandJegorov/our-plane-crashed-and-we-lost-essential-data-logs-where-did-we-go-wrong-3599704bcb58?source=rss-42b23c160097------2)
+- [How to get fired (as a software developer)?](https://medium.com/@RolandJegorov/how-to-get-fired-as-a-software-developer-439cab24781c?source=rss-42b23c160097------2)
+- [Bias in development and why it’s dangerous](https://medium.com/@RolandJegorov/bias-in-development-and-why-its-dangerous-e5167208311d?source=rss-42b23c160097------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
