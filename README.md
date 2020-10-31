@@ -10,6 +10,7 @@
 
 [<img align="left" alt="Medium.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Roland Jegorov stackoverflow profile link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -53,3 +54,4 @@
 [linkedin]: https://www.linkedin.com/in/rolandjegorov/
 [meetup]: https://www.meetup.com/Polymorphic/
 [kobawan]: https://github.com/kobawan
+[stackoverflow]: https://stackoverflow.com/users/3909853/roland-jegorov
