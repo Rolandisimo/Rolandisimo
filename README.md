@@ -1,7 +1,7 @@
 ### Hi there, I'm Roland 👋
 
 ## I'm a Husband, Programmer and Dog owner!
-- 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvO9KfWJqprQ/company-logo_200_200/0?e=1604534400&v=beta&t=lUufC2PdiWfAKRmMEvwBMaOYikUMBtauY98zq4CiL_I" />][workplace]!
+- 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fprintify-for-woocommerce%2F&psig=AOvVaw1ckvfUTMA8T92NtBe5eYTd&ust=1609267149638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDUob2p8e0CFQAAAAAdAAAAABAI" />][workplace]!
 - 🌱 I’m currently learning everything BabylonJS, Kafka and Angular
 - 👾 Organizing [Polymorphic][meetup] meetup with [Kobawan][kobawan]
 - ⚡ Fun fact: I love to (scuba|free) dive and play guitar
