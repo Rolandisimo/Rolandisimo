@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Programmer and Dog owner!
 - 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://ps.w.org/printify-for-woocommerce/assets/icon.svg?rev=1732780" />][workplace]!
-- 🌱 I’m currently learning everything BabylonJS, Kafka and Angular
-- 👾 Organizing [Polymorphic][meetup] meetup with [Kobawan][kobawan]
-- ⚡ Fun fact: I love to (scuba|free) dive and play guitar
+- 📚 Reading books is my passion. Here's my [Goodreads][goodreads]
+- 👾 Had the experience of organising [Polymorphic][meetup] meetup with [Kobawan][kobawan]
+- ⚡ Fun fact: I love to (scuba|free) dive, rock climb and play the guitar
 
 ### Connect with me:
 
@@ -55,3 +55,4 @@
 [meetup]: https://www.meetup.com/Polymorphic/
 [kobawan]: https://github.com/kobawan
 [stackoverflow]: https://stackoverflow.com/users/3909853/roland-jegorov
+[goodreads]: https://www.goodreads.com/user/show/66778938-roland-jegorov
