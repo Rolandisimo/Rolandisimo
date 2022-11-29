@@ -35,8 +35,10 @@
 <br />
 
 ---
+### [You can see my blog here][blog]
 
-### 📕 Latest Blog Posts
+### 📕 Blog posts in other places 
+
 <!-- BLOG-POST-LIST:START -->
 - [Why your data has most likely been stolen and what can you do about it](https://medium.com/@RolandJegorov/why-your-data-has-most-likely-been-stolen-and-what-can-you-do-about-it-139c5b81e8b7?source=rss-42b23c160097------2)
 - [Fancy word. What does it mean?](https://medium.com/@RolandJegorov/fancy-word-what-does-it-mean-8a1323107a14?source=rss-42b23c160097------2)
@@ -49,6 +51,7 @@
 
 <img align="left" alt="Rolandisimo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rolandisimo&show_icons=true&hide_border=true" />
 
+[blog]: https://github.com/Rolandisimo/blog
 [workplace]: https://printify.com/
 [medium]: https://medium.com/@RolandJegorov
 [linkedin]: https://www.linkedin.com/in/rolandjegorov/
