@@ -1,6 +1,6 @@
 ### Hi there, I'm Roland 👋
 
-## I'm a Husband, Programmer and Dog owner!
+## I love to solve problems!
 - 🔭 I’m currently working in [<img align="center" alt="Printify logo" width="26px" src="https://ps.w.org/printify-for-woocommerce/assets/icon.svg?rev=1732780" />][workplace]!
 - 📚 Reading books is my passion. Here's my [Goodreads][goodreads]
 - 👾 Had the experience of organising [Polymorphic][meetup] meetup with [Kobawan][kobawan]
